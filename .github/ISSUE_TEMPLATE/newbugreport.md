@@ -1,10 +1,12 @@
+---
 name: Bug Report
 about: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triange"]
-project: ["octo-org/1", "octo/org/44"]
+project: ["Cetabet-1234/Lab04"]
 assignees: Cetabet-1234
 
+type: bug
 body:
     - type: markdown
       attributes:
@@ -68,4 +70,4 @@ body:
       options:
       - label: I agree to follow this project's Code of Conduct
         required: true
-
+---
