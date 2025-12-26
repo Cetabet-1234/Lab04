@@ -4,9 +4,8 @@ description: File a bug report.
 title: ["Bug"]
 labels: ["bug", "triage"]
 projects: ["Cetabet-1234/Lab04"]
-assignees: -Cetabet-1234
----
-
+assignees: 
+ -Cetabet-1234
 type: bug
 body:
   - type: markdown
