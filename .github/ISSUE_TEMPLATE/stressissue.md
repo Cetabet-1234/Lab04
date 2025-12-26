@@ -6,7 +6,7 @@ labels: ["bug", "triage"]
 projects: ["Cetabet-1234/Lab04"]
 assignees: 
  -Cetabet-1234
-
+---
 body:
 
     - type: markdown
