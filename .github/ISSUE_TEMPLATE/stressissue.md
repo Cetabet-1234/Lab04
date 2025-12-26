@@ -1,6 +1,6 @@
 ---
-name: Bug report
-Description: File a new bug.
+name: New Bug Report
+about: File a new bug.
 title: ["Bug"]
 labels: ["bug", "triage"]
 projects: ["Cetabet-1234/Lab04"]
