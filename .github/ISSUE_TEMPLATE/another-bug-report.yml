@@ -1,5 +1,5 @@
-name: New Bug Report
-description: File a new bug.
+name: Another bug report
+description: For 1.4
 title: 'Bug'
 labels: ["bug", "triage"]
 projects: ["Cetabet-1234/Lab04"]
