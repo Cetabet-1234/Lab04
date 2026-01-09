@@ -1,7 +1,7 @@
-name: Another bug report
+name: New Feature template
 description: For 1.4
-title: 'Bug'
-labels: ["bug", "triage"]
+title: 'Feature'
+labels: ["Feature", "triage"]
 projects: ["Cetabet-1234/Lab04"]
 assignees:
   - Cetabet-1234
@@ -10,8 +10,8 @@ body:
     id: contact
     attributes:
       label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. <email@example.com>
+      description: What is your name?
+      placeholder: ex. Thanawat Wongin
     validations:
       required: false
 
@@ -42,6 +42,10 @@ body:
         - Linux
         - MacOS
         - Other
+      default: 0
+      validations:
+      required: true
+
 
   - type: textarea
     id: logs
