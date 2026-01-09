@@ -1,7 +1,7 @@
 name: Another bug report
 description: For 1.4
-title: 'Feature'
-labels: ["Feature", "triage"]
+title: "Feature"
+labels: ["bug", "triage"]
 projects: ["Cetabet-1234/Lab04"]
 assignees:
   - Cetabet-1234
@@ -27,7 +27,7 @@ body:
       description: select the type of your request
       options:
         - New Feature
-        - Bug Fix 
+        - Bug Fix
       default: 0
     validations:
       required: true
@@ -45,7 +45,7 @@ body:
       default: 0
       validations:
       required: true
-
+      
 
   - type: textarea
     id: logs
