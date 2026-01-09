@@ -43,9 +43,8 @@ body:
         - MacOS
         - Other
       default: 0
-      validations:
+    validations:
       required: true
-      
 
   - type: textarea
     id: logs
